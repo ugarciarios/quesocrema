@@ -1,1 +1,2 @@
-console.log("Queso crema")
+console.log("quesocrema");
+alert("quesocrema");
